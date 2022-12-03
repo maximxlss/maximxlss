@@ -11,7 +11,7 @@ My name is Max. I'm a man from Russia. I play games, watch anime, write code.
 - 👨‍💻 I code in: Rust, Python
 - 📫 How to reach me: The preferred way is [Telegram](https://t.me/maximxlss), but I also have [Discord](https://discordapp.com/users/341281312243712001).
 - 🎮 What games do I play: Rhythm (osu!, ADOFAI, Rhythm Doctor, PDAFT), random shit.
-- 🖥️ What is my setup: I have an Intel Xeon e5-1650 v1, 16 Gb RAM and Nvidia GTX 1060. I also have a 144 hz display, a mechanical keyboard, Oculus Quest 2, Nintendo Switch and Novation Launchkey 25.
+- 🖥️ What is my setup: I have an Intel Xeon E5-2689 v1, 16 Gb RAM and Nvidia GTX 3090 ti. I also have a 144 hz 4K display, a mechanical keyboard, Oculus Quest 2, Nintendo Switch and Novation Launchkey 25.
 - ⚡ Fun fact: I use my nickname for over a half of my life. It's a combination of a way to write my full first name: maxim and a meaningless three letters xls. It's read as maxim and then x, l and s separately. At the end of my nickname sometimes is an extra s because some time in the past I created an account with nickname maximxls. My google account was then stolen, and I lost access to that account.
 
 Please feel free to tell me about the possible typos or any mistakes in this readme using github issues. I'm not a native speaker, so I would appreciate if you might help me learn more.
