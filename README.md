@@ -7,7 +7,7 @@
 [![Discord: maximxls#9992](https://img.shields.io/badge/maximxls%239992-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/341281312243712001)
 [![Youtube: Maximxls](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCNAY5V8Kr0JFinxfEpvZYrA)
 
-I'm Max, 16 y.o. self-proclaimed programmer and science enthusiast.
+I'm Max, 17 y.o. self-proclaimed programmer and science enthusiast.
 - 👨‍💻 Know Rust and Python best, and a bit of C++ (mainly for competitive programming)
 - 📫 My preferred way to communicate is [Telegram](https://t.me/maximxlss). Feel free to reach out if you need anything.
 - 🖥 If you have an potentially interesting project, but need some compute power, I might be able to help. My setup has 64 GB RAM and a 3090 ti, although the CPU is not good. Reach out, I would be glad to help.
