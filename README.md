@@ -32,4 +32,4 @@ Interested in developing CTF tasks of my specialization. If you need any feel fr
 - Linux, Docker, basic deploy.
 
 ### Employment
-I don't plan to seek employment until 2026 to focus on my education.
+I don't plan to be employed until 2026 to focus on my education.
