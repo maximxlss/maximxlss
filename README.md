@@ -4,7 +4,7 @@
 
 You have stumbled onto my personal README. Here you can learn more about who I am and what I do, if you're interested.
 
-Besides, you can contact me using any of the ways listed above, feel free to do so!
+Besides, you can contact me using any of the ways listed above, feel free to do so! I'm open to invitations and other opportunities.
 
 ### General
 I'm 17 years old, student at <picture>
