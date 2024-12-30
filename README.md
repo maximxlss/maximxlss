@@ -7,7 +7,7 @@ You have stumbled onto my personal README. Here you can learn more about who I a
 Besides, you can contact me using any of the ways listed above, feel free to do so! I'm open to invitations and other opportunities.
 
 ### General
-I'm 17 years old, student at [<picture>
+I'm 18 years old, student at [<picture>
     <source srcset="logo_hse_dark.svg"  media="(prefers-color-scheme: dark)">
     <img alt="HSE University" src="logo_hse.svg" height="13" align="center">
 </picture><picture>
