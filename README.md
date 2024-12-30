@@ -16,7 +16,7 @@ I'm 18 years old, student at [<picture>
 </picture>](https://www.hse.ru/en/) in Moscow, enrolled in the Software Engineering bachelor course since 2024. You can call me whatever you want, I'd suggest Max or Maxim.
 
 ### Areas of interest
-1. **🛡️Infosec / CTF :** member of [<picture><img alt="WWF" src="logo_wwf.png" height="60" align="center"></picture> World Wide Flags](https://ctftime.org/team/283853) (top 50 worldwide), specializing in cryptography/math/PPC, now less regularly playing as [xls team](https://ctftime.org/team/271856) (top 20 in Russia) and as a guest member in other teams.\
+1. **🛡️Infosec / CTF :** member of [<picture><img alt="WWF" src="logo_wwf.png" height="60" align="center"></picture> World Wide Flags](https://ctftime.org/team/283853) (top 50 worldwide), also [LCD](https://ctftime.org/team/270230/), historically also [xls team](https://ctftime.org/team/271856) and as a guest member in other teams, specializing in cryptography/math/PPC.\
 Interested in developing CTF tasks of my specialization. If you need any feel free to reach out!
 2. **🔬Science, mathematics and physics:** interested in knowing more about math or physics of different kinds, for infosec/coding or otherwise, both as casual learning and as professional/academic research. I don't have any actual experience, but would love to try. If you do research and think I could be helpful to you, please reach out!
 3. **🕹️Games :** [Tetr.io](https://ch.tetr.io/u/maximxls) S- rank, [osu!](https://osu.ppy.sh/users/10891536) 2493pp. I play different genres, but love indie puzzles the most.
@@ -24,11 +24,11 @@ Interested in developing CTF tasks of my specialization. If you need any feel fr
 5. **🧑‍💻Coding :** I would consider invites for project and hackathons, you can see samples of my code here on Github (not the best of my code, honestly, but better than nothing)
 
 ### Some of my skills
-- Programming: several years of Python scripting, experience using Rust and Go.
+- Programming: several years of Python scripting, some experience using Rust and Go.
 - Speaking: native Russian, B2 - Upper Intermediate English.
-- Cryptography: RSA, AES, Diffie-Hellman, Elliptic curves, lattices.
-- CTF: basic pwn, reverse engineering, forensics, jail escape, web exploitation, networking.
-- Algorithms: dynamic programming, segment trees and treaps, basic graph and string algos.
+- Cryptography: advanced RSA, basic AES, Diffie-Hellman, Elliptic curves, lattices.
+- CTF besides cryptography: basic pwn, reverse engineering, forensics, jail escape, web exploitation, networking.
+- Algorithms: basic dynamic programming, segment trees and treaps, basic graph and string algos.
 - Linux, Docker, basic deploy.
 
 ### Employment
