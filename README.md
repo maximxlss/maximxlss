@@ -6,15 +6,6 @@ You have stumbled onto my personal README. Here you can learn more about who I a
 
 Besides, you can contact me using any of the ways listed above, feel free to do so! I'm open to invitations and other opportunities.
 
-### General
-I'm 18 years old, student at [<picture>
-    <source srcset="logo_hse_dark.svg"  media="(prefers-color-scheme: dark)">
-    <img alt="HSE University" src="logo_hse.svg" height="13" align="center">
-</picture><picture>
-    <source srcset="logo_fcs_dark.svg"  media="(prefers-color-scheme: dark)">
-    <img alt="FCS" src="logo_fcs.svg" height="11">
-</picture>](https://www.hse.ru/en/) in Moscow, enrolled in the Software Engineering bachelor course since 2024. You can call me whatever you want, I'd suggest Max or Maxim.
-
 ### Areas of interest
 1. **🛡️Infosec / CTF :** member of [<picture><img alt="WWF" src="logo_wwf.png" height="60" align="center"></picture> World Wide Flags](https://ctftime.org/team/283853) (top 50 worldwide), also [LCD](https://ctftime.org/team/270230/), historically also [xls team](https://ctftime.org/team/271856) and as a guest member in other teams, specializing in cryptography/math/PPC.\
 Interested in developing CTF tasks of my specialization. If you need any feel free to reach out!
