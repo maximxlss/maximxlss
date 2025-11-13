@@ -39,7 +39,7 @@ Interested in developing CTF tasks of my specialization or doing vulnerability r
 #### Developing/organizing
 - World Wide CTF 2024, 2025 (2500 teams)
 - Tasks for MIACTF, Ozon CTF.
-- A/D services for CenterCTF, OmCTF, Кубка CTF.
+- A/D CTF services for CenterCTF, OmCTF, Кубка CTF.
 - Stuff on this Github account (not much here sadly).
 #### CTF/Olympiads
 - 1st places: Кубок ФСП России и Чемпионат ФСП России по спортивному программированию в дисциплине "программирование систем информационной безопасности" в 2025 году
