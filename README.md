@@ -48,5 +48,6 @@ Interested in developing CTF tasks of my specialization or doing vulnerability r
 - 1st places as xls team: VrnCTF 2023 и 2024.
 - Top 3 as WWF: TJCTF 2025, BYUCTF 2025, UMassCTF 2025, BITSCTF 2025, 0xL4ugh CTF.
 - 2nd place: Первенство ФСП России 2024.
-- 2nd place: M*CTF Student 2024.
+- 3rd place: M*CTF Student 2024.
+- 1st place at SibCTF 2025.
 - A bunch of cool tasks first-blooded! Some of them you can check out [here](https://writeups.xls.msk.ru/).
