@@ -28,9 +28,10 @@ Interested in developing CTF tasks of my specialization or doing vulnerability r
 - Currently on my second year of HSE FCS SE.
 - Летняя школа CTF 2024, 2025 (CTF/Infosec summer school)
 - Positive Hack Days Fest 2025
-- OFFZONE 2025
+- OFFZONE 2025, 2026
 - Underconf 2025
-- Standoff Talks 2025
+- Standoff Talks 2025, 2026
+- Zeronighta 2025, 2026
 #### Teaching
 - Perparing high school students for GoIT CTF (2025)
 - НЕЙМАРК.ИТ-Академия по ИБ 2025 (CTF summer school for high schoolers)
@@ -42,12 +43,12 @@ Interested in developing CTF tasks of my specialization or doing vulnerability r
 - A/D CTF services for CenterCTF, OmCTF, Russian CTF Cup.
 - Stuff on this Github account (not much here sadly).
 #### CTF/Olympiads
-- 1st places: Кубок ФСП России и Чемпионат ФСП России по спортивному программированию в дисциплине "программирование систем информационной безопасности" в 2025 году
+- 1st places: Кубок ФСП России и Чемпионат ФСП России по спортивному программированию в дисциплине "программирование систем информационной безопасности" в 2025 году, Кубок России и Кубок Федерации в 2026
 - 3rd place: Всероссийская олимпиады "Я - профессионал" в направлении "Информационная и кибербезопасность (бакалавриат)".
 - 1st place as LCD: VolgaCTF 2025.
 - 1st places as xls team: VrnCTF 2023 и 2024.
 - Top 3 as WWF: TJCTF 2025, BYUCTF 2025, UMassCTF 2025, BITSCTF 2025, 0xL4ugh CTF.
-- 2nd place: Первенство ФСП России 2024.
+- 2nd place: Первенство ФСП России 2024, VolgaCTF 2026.
 - 3rd place: M*CTF Student 2024.
 - 1st place at SibCTF 2025.
 - A bunch of cool tasks first-blooded! Some of them you can check out [here](https://writeups.xls.msk.ru/).
