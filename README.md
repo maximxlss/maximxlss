@@ -25,13 +25,13 @@ Interested in developing CTF tasks of my specialization or doing vulnerability r
 
 ## Collection of the things I've done
 #### Education, attending conferences
-- Currently on my second year of HSE FCS SE.
+- Currently on my third year of HSE FCS SE.
 - Летняя школа CTF 2024, 2025 (CTF/Infosec summer school)
 - Positive Hack Days Fest 2025
 - OFFZONE 2025, 2026
 - Underconf 2025
 - Standoff Talks 2025, 2026
-- Zeronighta 2025, 2026
+- Zeronights 2025, 2026
 #### Teaching
 - Perparing high school students for GoIT CTF (2025)
 - НЕЙМАРК.ИТ-Академия по ИБ 2025 (CTF summer school for high schoolers)
